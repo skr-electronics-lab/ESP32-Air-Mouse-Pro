@@ -1,0 +1,15 @@
+{
+  "name": "ESP32 Air Mouse",
+  "version": "1.0.0",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "ESP32_Air_Mouse.ino.bootloader.bin", "offset": 4096 },
+        { "path": "ESP32_Air_Mouse.ino.partitions.bin", "offset": 32768 },
+        { "path": "ESP32_Air_Mouse.ino.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
