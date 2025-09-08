@@ -2,7 +2,7 @@
 
 This repository contains the web-based firmware flasher for the ESP32 Air Mouse project. It allows you to install the firmware directly to your ESP32 device from your web browser using the Web Serial API.
 
-**[Live Flasher Link](https://your-username.github.io/your-repo-name/)** (Replace with your GitHub Pages URL after publishing)
+**[Live Flasher Link](https://skr-electronics-lab.github.io/ESP32-Air-Mouse-Pro/)** (Replace with your GitHub Pages URL after publishing)
 
 ## Features
 
