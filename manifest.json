@@ -1,8 +1,8 @@
 {
-  "name": "ESP32 Air Mouse Pro",
+  "name": "ESP32 Air Mouse",
   "version": "1.0.0",
-  "new_install_prompt_erase": true,
-  "new_install_improv_wait_time": 12,
+  "new_install_prompt_erase": false,
+  "theme_color": "#161b22",
   "builds": [
     {
       "chipFamily": "ESP32",
@@ -12,4 +12,3 @@
     }
   ]
 }
-
