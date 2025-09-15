@@ -1,16 +1,14 @@
 {
-  "name": "ESP32 Air Mouse",
+  "name": "ESP32 Air Mouse Pro",
   "version": "1.0.0",
   "new_install_prompt_erase": true,
+  "new_install_improv_wait_time": 12,
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "Firmware/ESP32_Air_Mouse.ino.bin", "offset": 0 },
+        { "path": "ESP32_Air_Mouse_Pro_firmware_v1.0.0.bin", "offset": 0 }
       ]
     }
   ]
 }
-
-
-
