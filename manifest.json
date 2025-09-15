@@ -6,11 +6,10 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "Firmware/ESP32_Air_Mouse.ino.bin", "offset": 4096 },
-        { "path": "Firmware/ESP32_Air_Mouse.ino.bootloader.bin", "offset": 32768 },
-        { "path": "Firmware/ESP32_Air_Mouse.ino.bin", "offset": 65536 }
+        { "path": "Firmware/ESP32_Air_Mouse.ino.bin", "offset": 0 },
       ]
     }
   ]
 }
+
 
