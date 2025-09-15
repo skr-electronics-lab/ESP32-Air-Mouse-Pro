@@ -1,7 +1,7 @@
 {
   "name": "ESP32 Air Mouse",
   "version": "1.0.0",
-  "new_install_prompt_erase": false,
+  "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32",
@@ -11,5 +11,6 @@
     }
   ]
 }
+
 
 
